@@ -51,7 +51,7 @@
 											"top": 277,
 											"width": 65.32080078125,
 											"height": 13,
-											"text": "«interface»"
+											"text": "«abstract»"
 										},
 										{
 											"_type": "LabelView",
@@ -1297,7 +1297,7 @@
 							}
 						}
 					],
-					"stereotype": "interface"
+					"stereotype": "abstract"
 				},
 				{
 					"_type": "UMLClass",
